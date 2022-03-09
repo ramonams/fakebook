@@ -1,2 +1,0 @@
-# fakebook
-homework 1 
